@@ -661,7 +661,7 @@
                 "image": "@PROJECT_PATH@/assets/images/m-428x362.png",
                 "thumb": "@PROJECT_PATH@/assets/images/m-428x362-428x362.png",
                 "alt": "",
-                "title": "",
+                "title": "Miyeon\t",
                 "customStyle1": "display-7",
                 "caption": "这里输入标题",
                 "active": true
@@ -674,7 +674,7 @@
                 "image": "@PROJECT_PATH@/assets/images/mi-426x358.png",
                 "thumb": "@PROJECT_PATH@/assets/images/mi-426x358-426x358.png",
                 "alt": "",
-                "title": "",
+                "title": "Minnie",
                 "customStyle1": "display-7",
                 "caption": "这里输入标题",
                 "active": false
@@ -687,7 +687,7 @@
                 "image": "@PROJECT_PATH@/assets/images/j-431x360.png",
                 "thumb": "@PROJECT_PATH@/assets/images/j-431x360-431x360.png",
                 "alt": "",
-                "title": "",
+                "title": "Soyeon",
                 "customStyle1": "display-7",
                 "caption": "这里输入标题",
                 "active": false
@@ -700,7 +700,7 @@
                 "image": "@PROJECT_PATH@/assets/images/s-419x360.png",
                 "thumb": "@PROJECT_PATH@/assets/images/s-419x360-419x360.png",
                 "alt": "",
-                "title": "",
+                "title": "Soojin",
                 "customStyle1": "display-7",
                 "caption": "这里输入标题",
                 "active": false
@@ -713,7 +713,7 @@
                 "image": "@PROJECT_PATH@/assets/images/y-418x355.png",
                 "thumb": "@PROJECT_PATH@/assets/images/y-418x355-418x355.png",
                 "alt": "",
-                "title": "",
+                "title": "Yuqi",
                 "customStyle1": "display-7",
                 "caption": "这里输入标题",
                 "active": false
@@ -723,10 +723,10 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/s-419x360.png",
-                "thumb": "@PROJECT_PATH@/assets/images/s-419x360-419x360.png",
+                "image": "@PROJECT_PATH@/assets/images/h-423x357.png",
+                "thumb": "@PROJECT_PATH@/assets/images/h-423x357-423x357.png",
                 "alt": "",
-                "title": "",
+                "title": "Shuhua",
                 "customStyle1": "display-7",
                 "caption": "这里输入标题",
                 "active": false
